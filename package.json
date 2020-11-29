@@ -1,0 +1,24 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Aula Alura",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusfuzari/reactjs.git"
+  },
+  "keywords": [
+    "Alura",
+    "reactjs"
+  ],
+  "author": "Fuzari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markusfuzari/reactjs/issues"
+  },
+  "homepage": "https://github.com/markusfuzari/reactjs#readme"
+}
